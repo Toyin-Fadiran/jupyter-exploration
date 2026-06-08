@@ -4,7 +4,7 @@
 **A01 ITAI 1378 – Colab and Other Tools Practice Run**
 
 ## 📌 Activity Description
-This project is part of a **Setting Up and Exploring GitHub (20 minutes)** exercise.  
+This assignment is part of a **Setting Up and Exploring GitHub (20 minutes)** exercise.  
 It includes practicing GitHub, Google Colab, and other introductory data science tools.
 
 ## 🎯 Objectives
@@ -16,7 +16,7 @@ It includes practicing GitHub, Google Colab, and other introductory data science
 ## 🛠️ Tools Used
 - 🐙 GitHub  
 - 📊 Google Colab  
-- 📓 Jupyter Notebook (if applicable)
+- 📓 Jupyter Notebook
 
 ## 📝 Notes
 ✅ **This repository is for practice and learning purposes as part of an introductory ITAI 1378 assignment.**
